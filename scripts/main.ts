@@ -547,10 +547,10 @@ nodeImg.onload = () => {
     new PureEaselStage();
     $("<h3>Test 4 - Nodes: HTML, Connectors: KineticJS</h3>").appendTo("body")
     new HTMLKineticStage();
-    $("<h3>Test 4 - Nodes: HTML, Connectors: FabricJS</h3>").appendTo("body")
+    $("<h3>Test 5 - Nodes: HTML, Connectors: FabricJS</h3>").appendTo("body")
     new HTMLFabricStage();
-    $("<h3>Test 4 - Nodes: HTML, Connectors: EaselJS</h3>").appendTo("body")
+    $("<h3>Test 6 - Nodes: HTML, Connectors: EaselJS</h3>").appendTo("body")
     new HTMLEaselStage();
-    $("<h3>Test 5 - Nodes: HTML, Connectors: SVG</h3>").appendTo("body")
+    $("<h3>Test 7 - Nodes: HTML, Connectors: SVG</h3>").appendTo("body")
     new HTMLStage();
 };
