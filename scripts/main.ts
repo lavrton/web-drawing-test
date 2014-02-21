@@ -10,8 +10,8 @@ declare var $: any;
 
 var STAGE_WIDTH = $(window).width() * 3/4;
 var STAGE_HEIGHT = 500;
-var NODE_NUMBER = 100;
-var CONNECTOR_NUMBER = 30;
+var NODE_NUMBER = 50;
+var CONNECTOR_NUMBER = 20;
 var CONNECTOR_WIDTH = 5;
 
 var nodeImg = new Image();
