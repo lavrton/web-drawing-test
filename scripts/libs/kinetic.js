@@ -6045,7 +6045,6 @@ var Kinetic = {};
                 for (n=0; n<len; n++) {
                     diff.push(end[n] - start[n]);
                 }
-
             }
             else {
                 diff = end - start;
